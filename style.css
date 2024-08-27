@@ -1,0 +1,25 @@
+body {
+    font-family: "Times New Roman", Serif;
+    font-size: 34px;
+    background-color: rgb(238, 89, 166)
+}
+
+h1 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 44px;
+    color: rgb(163, 195, 163);
+}
+
+ul .pizza {
+    background-color: #ffffff;
+}
+
+ul .burger {
+    background-color: rgb(64, 26, 64)
+}
+
+ul {
+    background-color: rgb(176, 121, 20);
+}
+
