@@ -1,0 +1,65 @@
+[33mcommit 8e37e34bbd5fb850901e2bb03a775e82ded7cae7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: JamesCameraman <nehemiahcook@protonmail.com>
+Date:   Tue Aug 20 08:28:59 2024 -0700
+
+    list recipe links on home page
+    
+    Put links in an unordered list so they're on
+    seperate lines.
+
+[33mcommit f6cd3af8eeaaa83bcbf089f907455cf6d88ef3d4[m
+Author: JamesCameraman <nehemiahcook@protonmail.com>
+Date:   Tue Aug 20 08:26:24 2024 -0700
+
+    complete cheesy-taco-burger webpage
+
+[33mcommit 419c92c9725c2e4e2993a08a71bf41fd0059551e[m
+Author: JamesCameraman <nehemiahcook@protonmail.com>
+Date:   Tue Aug 20 08:12:45 2024 -0700
+
+    fix titles of webpages
+    
+    Changed mozzarella sticks and cheesy taco burgers
+    titles to dish name.
+
+[33mcommit f26cd3a50b0c74d1434e911faa4e1bb33b1f479d[m
+Author: JamesCameraman <nehemiahcook@protonmail.com>
+Date:   Tue Aug 20 08:10:59 2024 -0700
+
+    link cheesy-taco-burgers page
+
+[33mcommit 0a5a8fe31bbffd5f6feb4700d00e0a81b73581b1[m
+Author: JamesCameraman <nehemiahcook@protonmail.com>
+Date:   Tue Aug 20 08:04:59 2024 -0700
+
+    complete mozzarella sticks page
+    
+    The mozzarella sicks page provides a complete recipe.
+
+[33mcommit a43da946c06fbd4e9d8bd82f37eaab5ba6dc6ce9[m
+Author: JamesCameraman <nehemiahcook@protonmail.com>
+Date:   Tue Aug 20 07:57:41 2024 -0700
+
+    complete pizza recipe page
+    
+    The webpage now instructs users how to make pizza.
+
+[33mcommit 3fad3654ee0b4b69bbe1a13a327b2489322dd50e[m
+Author: JamesCameraman <nehemiahcook@protonmail.com>
+Date:   Tue Aug 20 07:54:50 2024 -0700
+
+    add link to pizza recipe
+    
+    The pizza recipe is on another webpage. This link brings users to the recipe.
+
+[33mcommit 7eb0d31b10b20f24f6c866d20625d33f889d6b24[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JamesCameraman <nehemiahcook@protonmail.com>
+Date:   Mon Aug 19 08:15:11 2024 -0700
+
+    add project description
+
+[33mcommit f244661b97e1b5a4cb19caf4668892abe1631b28[m
+Author: JamesCameraman <163030774+JamesCameraman@users.noreply.github.com>
+Date:   Mon Aug 19 08:04:48 2024 -0700
+
+    Initial commit
