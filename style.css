@@ -1,6 +1,7 @@
 body {
     font-family: "Times New Roman", Serif;
     font-size: 34px;
+    color: white;
     background-color: rgb(238, 89, 166)
 }
 
@@ -11,16 +12,17 @@ h1 {
     color: rgb(163, 195, 163);
 }
 
-ul .pizza {
-    background-color: #ffffff;
+h2,
+h3 {
+    color: black;
 }
 
-ul .burger {
-    background-color: rgb(64, 26, 64)
+#sticks {
+    color: rgb(144, 222, 198)
 }
 
-ul {
-    background-color: rgb(176, 121, 20);
+#burger {
+    color: rgb(64, 26, 64)
 }
 
 #pizza {
@@ -30,4 +32,7 @@ ul {
 img {
     width: 450px;
     height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
