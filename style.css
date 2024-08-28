@@ -26,3 +26,8 @@ ul {
 #pizza {
     color: rgb(150, 122, 2);
 }
+
+img {
+    width: 450px;
+    height: auto;
+}
